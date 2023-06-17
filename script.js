@@ -7,7 +7,6 @@ if (x < 50) {
 } else {
   console.log("error");
 }
-
 //პირობა-2
 let value = "mariam";
 let result = value == "mariam" ? "true" : "false";
